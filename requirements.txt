@@ -1,0 +1,6 @@
+pandas
+panel==0.13.0a40
+param
+hvplot
+scikit-learn
+nbconvert
