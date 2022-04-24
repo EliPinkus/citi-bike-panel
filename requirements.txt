@@ -2,4 +2,4 @@ pandas
 panel
 param
 jinja2
-Yarrow
+pyarrow
