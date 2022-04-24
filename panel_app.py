@@ -2,8 +2,8 @@ import panel as pn
 import pandas as pd
 pn.extension()
 
-annual_count_df = pd.read_parquet('drive/MyDrive/citi_bike/master/annual_count.parq')
-monthly_count_df = pd.read_parquet('drive/MyDrive/citi_bike/master/monthly_count.parq')
+annual_count_df = pd.read_parquet('annual_count.parq')
+monthly_count_df = pd.read_parquet('monthly_count.parq')
 
 endstations = df.endstationname.unique()
 startstations = df.startstationname.unique()
