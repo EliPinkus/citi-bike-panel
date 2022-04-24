@@ -1,5 +1,5 @@
 pandas
-panel==0.13.0a40
+panel
 param
 hvplot
 scikit-learn
