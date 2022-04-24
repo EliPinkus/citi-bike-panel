@@ -4,3 +4,4 @@ param
 hvplot
 scikit-learn
 nbconvert
+jinja2
