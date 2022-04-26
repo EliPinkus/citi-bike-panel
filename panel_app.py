@@ -2,7 +2,7 @@ import panel as pn
 import pandas as pd
 import os
 pn.extension()
-pn.Column(f'# Hi{os.environ['test']}')
+# pn.Column(f'# Hi{os.environ['test']}')
 print(os.environ['test'])
 # annual_count_df = pd.read_parquet('annual_count.parq')
 # monthly_count_df = pd.read_parquet('monthly_count.parq')
