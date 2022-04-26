@@ -3,3 +3,7 @@ panel
 param
 jinja2
 pyarrow
+s3fs
+dask[dataframe]
+plotly==5.7.0
+plotly-express==0.4.1
